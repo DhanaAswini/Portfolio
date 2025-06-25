@@ -9,7 +9,7 @@
 .contents{
   display:flex;
   padding-left:6%;
-  gap: 50px;
+  gap:50px;
   padding-top: 12px;
 }
 .icons {
