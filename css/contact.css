@@ -57,7 +57,6 @@ textarea {
   outline: none;
   border-radius: 10px;
 }
-
 textarea:focus {
   border-width: 3px;
   border-color: #7df9ff;
