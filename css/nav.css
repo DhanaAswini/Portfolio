@@ -65,7 +65,6 @@ a{
   background-color: #7df9ff;
   font-weight: bold;
 }
-
 :target{
   color:red;
 }
