@@ -13,7 +13,7 @@ body{
   font-size:large;
 }
 .col{
-  display: flex;
+  display:flex;
 }
 .tile{
   padding-left: 2%;
