@@ -63,7 +63,7 @@ a{
   cursor: pointer;
   padding: 4px 10px 4px 10px;
   background-color: #7df9ff;
-  font-weight: bold;
+  font-weight:bold;
 }
 :target{
   color:red;
