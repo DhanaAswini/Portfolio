@@ -12,7 +12,7 @@ body{
   text-decoration:underline;
 }
 .flex-cont{
-  display: flex;
+  display:flex;
   padding: 0.2% 10% 2% 15%;
   gap: 5%;
 }
