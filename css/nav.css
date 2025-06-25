@@ -66,6 +66,6 @@ a{
   font-weight: bold;
 }
 
-:target {
+:target{
   color:red;
 }
