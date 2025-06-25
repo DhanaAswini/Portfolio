@@ -12,7 +12,7 @@ body{
 #p1{
   font-size:large;
 }
-.col {
+.col{
   display: flex;
 }
 .tile {
