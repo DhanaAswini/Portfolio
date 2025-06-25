@@ -62,7 +62,7 @@ a{
 .res {
   cursor: pointer;
   padding: 4px 10px 4px 10px;
-  background-color: #7df9ff;
+  background-color:#7df9ff;
   font-weight:bold;
 }
 :target{
