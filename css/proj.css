@@ -11,7 +11,7 @@ body{
   font-size:50px;
   text-decoration:underline;
 }
-.flex-cont {
+.flex-cont{
   display: flex;
   padding: 0.2% 10% 2% 15%;
   gap: 5%;
