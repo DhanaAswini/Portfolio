@@ -8,7 +8,6 @@ body {
   display: flex;
   gap: 50px;
 }
-
 .part1 {
   background-color: #7df9ff;
   display: block;
